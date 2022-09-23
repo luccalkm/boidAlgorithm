@@ -1,1 +1,1 @@
-# boidAlgorithm
+# Boid
